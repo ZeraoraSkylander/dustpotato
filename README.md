@@ -10,3 +10,5 @@ This HTML5 port is property of SuperTeamXP
 Do not fork/clone this repository or put this on other sites without acknowledging me and the creators
 
 Thanks to WassabiSoja, StampSz, and hexar01 for the mod and source code
+
+https://zeraoraskylander.github.io/dustpotato
